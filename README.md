@@ -11,7 +11,7 @@ Bovine (cow) fat cells cultivated using standard fetal bovine serum, reduced ser
 ### Design of Experiment for insulin and ascorbic acid concentrations in differentiation medium for adipocytes and texture profile characterization of alginate hydrogel for scaffolding of cultured meat (report 2)
 Reported weakly positive effects of insulin and ascorbic acid on lipid accumulation in fat cells (adipocytes). Alginate hydrogels are used as biomaterial scaffolds and food gels. Here, alginate hydrogel scaffolds are seeded with adipocytes and compared to ground beef in texture characteristics.
 
-### Bovine satellite muscle cells under 2 curcumin-based antioxidant treatments (report 3)
+### Bovine satellite muscle cell oxidation compared under 2 curcumin-based antioxidant treatments (report 3)
 Higher cell viability and lower oxidation reported under food-grade antioxidant treatment.
 
 ## Cell and microbe cultivation
