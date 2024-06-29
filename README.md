@@ -6,7 +6,7 @@ Diabetes systems biology performed. Using HumanGEM systems biology model freely 
 
 ## Cellular Agriculture
 ### Bovine muscle and adipogenic differentiation with reduced fetal bovine serum (report 1)
-Bovine (cow) fat cells cultivated using standard fetal bovine serum, reduced serum and serum-free formulations. Cells were harvested from biopsies at 2 farms in connecticut, USA. Successful differentiation of bovine satellite muscle cells into fibers and accumulation of lipids in adipocytes.
+Bovine (cow) fat cells cultivated using standard fetal bovine serum, reduced serum and serum-free formulations. Cells were harvested from biopsies at 2 farms in Connecticut, USA. Successful differentiation of bovine satellite muscle cells into fibers and accumulation of lipids in adipocytes.
 
 ### Design of Experiment for insulin and ascorbic acid concentrations in differentiation medium for adipocytes and texture profile characterization of alginate hydrogel for scaffolding of cultured meat (report 2)
 Reported weakly positive effects of insulin and ascorbic acid on lipid accumulation in fat cells (adipocytes). Alginate hydrogels are used as biomaterial scaffolds and food gels. Here, alginate hydrogel scaffolds are seeded with adipocytes and compared to ground beef in texture characteristics.
